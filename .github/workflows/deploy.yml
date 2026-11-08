@@ -16,5 +16,5 @@ jobs:
         uses: bcomnes/deploy-to-neocities@v2
         with:
           api_token: ${{ secrets.NEOCITIES_PASS }}
-          dist_dir: .      
+          dist_dir: neocities-ruralos  
           cleanup: true
