@@ -3,7 +3,7 @@ name: Deploy to Neocities
 on:
   push:
     branches:
-      - main 
+      - main
 
 jobs:
   deploy:
@@ -16,4 +16,5 @@ jobs:
         uses: bcomnes/deploy-to-neocities@v2
         with:
           api_token: ${{ secrets.NEOCITIES_PASS }}
+          dist_dir: .      
           cleanup: true
