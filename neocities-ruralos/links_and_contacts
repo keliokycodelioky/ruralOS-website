@@ -11,13 +11,15 @@
   <li><a href="https://ruralos.neocities.org/">Home</a></li>
   <li><a href="https://ruralos.neocities.org/download">Download RuralOS</a>
     <li><a href="https://ruralos.neocities.org/meetthedevs">Meet The Dev</a></li>
-    <li><a href="https://ruraloslinux.blogspot.com/">Blog</a></li>
 </ul>
   </head>
   <body>
   <h2>Links</h2>
   <ul>
-  <li><a href="https://x.com/ruralOSteam" target="_blank"><img src="twt.jpg" width="200px"></a>
+  <li><a href="https://x.com/ruralOSteam" target="_blank"><img src="twt.jpg" width="200px"></a></li>
+  <li><a href="https://reddit.com/user/ruralOSteam/" target="_blank"><img src="redt.jpg" width="200px"></a></li>
+  <li><a href="https://www.youtube.com/channel/UCMAYonJNwoW605zcNzX5GhA" target="_blank"><img src="yt.jpg" width="200px"></a></li>
+  </ul>
   
   </body>
 </html>
